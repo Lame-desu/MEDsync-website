@@ -4,22 +4,22 @@ import Home from "./pages/Home/Home";
 import Department from "./pages/Department/Department";
 import Contact from "./pages/Contact/Contact";
 import About from "./pages/About/About";
-import AuthPage from "./pages/Auth/Auth";
+import Auth from "./pages/Auth/Auth";
+import Patient from "./pages/Patient/Patient";
 
 function App() {
   return (
     <>
-  <h1>HELLO</h1>
       <Navbar />
-    
-        <Routes>
-          <Route path="/home" element={<Home />} />
-          <Route path="/department" element={<Department />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/contact" element={<Contact />} />
-          <Route path="/auth" element={<AuthPage />} />
-        </Routes>
-    
+
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/patient" element={<Patient />} />
+        <Route path="/department" element={<Department />} />
+        <Route path="/about" element={<About />} />
+        <Route path="/contact" element={<Contact />} />
+        <Route path="/auth" element={<Auth />} />
+      </Routes>
     </>
   );
 }
