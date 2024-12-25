@@ -4,6 +4,7 @@ import AuthCard from "../../Components/AuthCard/AuthCard.jsxnpm ";
 const AuthPage = () => {
   return (
     <div className="max-w-screen-lg bg-primary mx-auto p-8 text-center" id="root">
+      <h1>I am biruk</h1>
       <div className="flex h-screen">
         {/* Left Section: Background Image */}
         <div

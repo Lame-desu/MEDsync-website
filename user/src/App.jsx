@@ -11,11 +11,7 @@ function App() {
     <>
   <h1>HELLO</h1>
       <Navbar />
-<<<<<<< HEAD
     
-=======
-      
->>>>>>> main
         <Routes>
           <Route path="/home" element={<Home />} />
           <Route path="/department" element={<Department />} />
@@ -23,11 +19,7 @@ function App() {
           <Route path="/contact" element={<Contact />} />
           <Route path="/auth" element={<AuthPage />} />
         </Routes>
-<<<<<<< HEAD
     
-=======
-      
->>>>>>> main
     </>
   );
 }
