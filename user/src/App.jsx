@@ -11,7 +11,10 @@ function App() {
     <>
   <h1>HELLO</h1>
       <Navbar />
+<<<<<<< HEAD
+=======
     
+>>>>>>> ecd4bd27307ef21dc862493b31124b546e9a9ff1
         <Routes>
           <Route path="/home" element={<Home />} />
           <Route path="/department" element={<Department />} />
@@ -19,7 +22,10 @@ function App() {
           <Route path="/contact" element={<Contact />} />
           <Route path="/auth" element={<AuthPage />} />
         </Routes>
+<<<<<<< HEAD
+=======
     
+>>>>>>> ecd4bd27307ef21dc862493b31124b546e9a9ff1
     </>
   );
 }
