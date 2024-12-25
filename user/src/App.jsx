@@ -11,7 +11,6 @@ function App() {
     <>
   
       <Navbar />
-      <Router>
         <Routes>
           <Route path="/home" element={<Home />} />
           <Route path="/department" element={<Department />} />
@@ -19,7 +18,6 @@ function App() {
           <Route path="/contact" element={<Contact />} />
           <Route path="/auth" element={<Auth />} />
         </Routes>
-      </Router>
     </>
   );
 }
