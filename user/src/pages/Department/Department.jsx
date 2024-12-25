@@ -2,8 +2,11 @@ import React from 'react'
 
 const Department = () => {
   return (
-    <div>Department</div>
+    <div>
+      biruk
+      
+    </div>
   )
 }
 
-export default Department
+export default Department;
