@@ -5,14 +5,15 @@ import Department from "./pages/Department/Department";
 import Contact from "./pages/Contact/Contact";
 import About from "./pages/About/About";
 import Auth from "./pages/Auth/Auth";
+import Patient from "./pages/Patient/Patient";
 
 function App() {
   return (
     <>
-  
       <Navbar />
       <Router>
         <Routes>
+          <Route path="/patient" element={<Patient />} />
           <Route path="/home" element={<Home />} />
           <Route path="/department" element={<Department />} />
           <Route path="/about" element={<About />} />
