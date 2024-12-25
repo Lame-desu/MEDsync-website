@@ -1,5 +1,5 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Navbar from "./components/Navbar/Navbar";
+import Navbar from "./Components/Navbar/Navbar";
 import Home from "./pages/Home/Home";
 import Department from "./pages/Department/Department";
 import Contact from "./pages/Contact/Contact";
@@ -11,16 +11,16 @@ function App() {
   return (
     <>
       <Navbar />
-      <Router>
+    
         <Routes>
           <Route path="/patient" element={<Patient />} />
           <Route path="/home" element={<Home />} />
           <Route path="/department" element={<Department />} />
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
-          <Route path="/auth" element={<Auth />} />
+          <Route path="/auth" element={<AuthPage />} />
         </Routes>
-      </Router>
+    
     </>
   );
 }
