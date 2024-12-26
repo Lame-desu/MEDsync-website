@@ -1,0 +1,93 @@
+/* patient header */
+.header_outer_container {
+  width: 100%;
+  box-shadow: 0px 0px 6px rgba(160, 160, 160);
+  position: sticky;
+}
+
+.header_inner_container {
+  width: 90%;
+  margin: auto;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn {
+  padding: 6px 40px;
+  border-radius: 20px;
+  background-color: #5f6fff;
+  color: white;
+}
+
+.profIcon {
+  background-color: #5f6fff;
+}
+
+/* patient body */
+
+.patientBody {
+  display: flex;
+  align-items: stretch;
+}
+
+.links {
+  flex: 1;
+  justify-content: stretch;
+  height: 91vh;
+  padding-left: 20px;
+  font-family: outfit;
+}
+
+.component {
+  flex: 5;
+  background-color: #f8f9fd;
+}
+
+.linkItem {
+  display: flex;
+  padding: 10px 3px;
+  padding-left: 10px;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 10px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.linkItem img {
+  width: 40px;
+  height: 40px;
+}
+.profile {
+  position: relative;
+}
+.linkItem:hover {
+  /* background-color: #ccc; */
+  border: 2px solid #5f6fff;
+}
+
+.dropdownProfileMenue {
+  position: absolute; /* Position dropdown absolutely */
+  top: 100%; /* Position it below the trigger */
+  left: 0;
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  z-index: 1000; /* Ensure it's above other elements */
+  width: 180px;
+  padding: 10px;
+}
+
+.profbtn {
+  padding: 5px;
+  padding-left: 10px;
+}
+
+.profbtn:hover {
+  background-color: #5f6fff;
+  cursor: pointer;
+  border-radius: 20px;
+  color: white;
+}

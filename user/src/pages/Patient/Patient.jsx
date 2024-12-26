@@ -1,9 +1,12 @@
 import React from "react";
+import PatientHeader from "../../Components/Patient/PatientHeader";
+import PatientBody from "../../Components/Patient/PatientBody";
 
 export default function Patient() {
   return (
     <div>
-      <h1>Patient page, by lamesgin desalegn</h1>
+      <PatientHeader />
+      <PatientBody />
     </div>
   );
 }
