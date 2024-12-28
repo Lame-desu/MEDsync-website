@@ -1,11 +1,14 @@
 /** @type {import('tailwindcss').Config} */
 export default {
   content: [
-    "./index.html",
-    "./src/**/*.{js,ts,jsx,tsx}",
+    "./src/**/*.{js,jsx,ts,tsx}", // Adjust to your project's file structure
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        outfit: ["Outfit", "sans-serif"], // Add the font to Tailwind
+      },
+    },
   },
   plugins: [],
-}
+};
