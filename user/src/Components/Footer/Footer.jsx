@@ -2,7 +2,7 @@ import React from 'react'
 import logo from '../../assets/logo.png'
 const Footer = () => {
   return (
-    <div className='font-outfit flex flex-col items-center absolute bottom-4 mx-[10%]'>
+    <div className='font-outfit flex flex-col items-center mt-20 bottom-4 mx-[10%]'>
       <div className="flex justify-between   sm:mx-[5%] ">
         <div className="w-[40%] ">
           <h1>
