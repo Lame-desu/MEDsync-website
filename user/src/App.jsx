@@ -6,6 +6,7 @@ import Contact from "./pages/Contact/Contact";
 import About from "./pages/About/About";
 import Auth from "./pages/Auth/Auth";
 import Patient from "./pages/Patient/Patient";
+import Doctor from "./pages/Doctor/Doctor";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         <Route path="/department" element={<Layout> <Department /></Layout>}/>
         <Route path="/about" element={<Layout> <About /> </Layout>}/>
         <Route path="/contact" element={<Layout> <Contact /> </Layout>}/>
+        <Route path="/showDoctor" element={<Layout><Doctor/></Layout>}/>
 
         {/* Routes without Navbar and Footer */}
         <Route path="/auth" element={<Auth />} />
