@@ -1,4 +1,3 @@
-import React, { useState } from "react";
 import logo from "../../assets/logo.png";
 import { NavLink, useLocation } from "react-router-dom";
 
@@ -23,7 +22,7 @@ const Navbar = () => {
             <li>
               <NavLink to="/">HOME</NavLink>
               {location.pathname === "/" && (
-                <hr className="w-[80%] border-[1.5px] border-[#5AC5C8] mt-1 mx-auto" />
+                <hr className="w-[80%] border-[1.5px] border-[#5AC5C8] mt-1 mx-autous" />
               )}
             </li>
             <li>

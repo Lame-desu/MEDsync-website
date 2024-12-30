@@ -10,7 +10,7 @@ const Sidemenu = () => {
   const toggleMenu = () => setMenuOpen(!menuOpen);
 
   return (
-    <div className="flex justify-between items-center mx-4 sm:mx-[10%] mt-5 font-outfit">
+    <div className="flex justify-between items-center mx-4 sm:mx-[10%] mt-5 font-outfit relative z-50">
       {/** Logo */}
       <div className="flex items-center gap-2">
         <img className="w-10 h-10" src={logo} alt="logo" />

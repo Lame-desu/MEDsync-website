@@ -4,16 +4,17 @@ import Sidemenu from '../Navbar/Sidemenu';
 const Layout = ({children}) => {
   return (
     <>
-    
       <div className="lg:hidden">
         <Sidemenu />
       </div>
 
-     
       <div className="hidden lg:block">
         <Navbar />
       </div>
-      {children}
+     
+        {children}
+       
+
       <Footer />
     </>
   );
