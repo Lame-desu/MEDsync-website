@@ -3,7 +3,7 @@ import image from '../../assets/about.png';
 
 const About = () => {
   return (
-    <div>
+    <div className="font-outfit">
       <h1 className="flex justify-center text-2xl font-extrabold mt-3">About Us</h1>
       <div className="flex flex-col gap-5 mx-7 mt-7">
         
@@ -11,7 +11,7 @@ const About = () => {
         <img src={image} className="rounded-2xl float" alt="About Us" />
             <div>
             
-          <p className="font-sans text-xl leading-relaxed mb-0">
+          <p className="font-outfit text-xl leading-relaxed mb-0">
           Welcome to Med-Sync, your reliable solution for seamless and efficient doctor-patient communication.  
 At Med-Sync, we aim to transform the healthcare experience by simplifying appointment scheduling, enhancing real-time communication, and providing secure access to health records. Our platform ensures that patients and healthcare providers stay connected, informed, and empowered, making healthcare more accessible and efficient for everyone.
             <br /><br />

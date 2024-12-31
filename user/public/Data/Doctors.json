@@ -3,7 +3,7 @@
     {
       "name": "Dr. John Doe",
       "specialization": "Cardiologist",
-      "profile_image": "../assets/Doctors/JohnDoe.jpeg",
+      "profile_image": "../src/assets/Doctors/JohnDoe.jpeg",
       "department": "Cardiology",
       "years_of_experience": 15,
       "contact": "john.doe@hospital.com",
@@ -13,7 +13,7 @@
     {
       "name": "Dr. Jane Smith",
       "specialization": "Cardiologist",
-      "profile_image": "../assets/Doctors/JaneSmith.jpeg",
+      "profile_image": "../src/assets/Doctors/JaneSmith.jpeg",
       "department": "Cardiology",
       "years_of_experience": 10,
       "contact": "jane.smith@hospital.com",
@@ -23,7 +23,7 @@
     {
       "name": "Dr. Alice Johnson",
       "specialization": "Cardiovascular Surgeon",
-      "profile_image": "../assets/Doctors/AliceJohnson.jpeg",
+      "profile_image": "../src/assets/Doctors/AliceJohnson.jpeg",
       "department": "Cardiology",
       "years_of_experience": 12,
       "contact": "alice.johnson@hospital.com",
@@ -33,7 +33,7 @@
     {
       "name": "Dr. Michael Lee",
       "specialization": "Interventional Cardiologist",
-      "profile_image": "../assets/Doctors/MichaelLee.jpeg",
+      "profile_image": "../src/assets/Doctors/MichaelLee.jpeg",
       "department": "Cardiology",
       "years_of_experience": 9,
       "contact": "michael.lee@hospital.com",
@@ -43,7 +43,7 @@
     {
       "name": "Dr. Sarah Williams",
       "specialization": "Electrophysiologist",
-      "profile_image": "../assets/Doctors/SarahWilliams.jpeg",
+      "profile_image": "../src/assets/Doctors/SarahWilliams.jpeg",
       "department": "Cardiology",
       "years_of_experience": 8,
       "contact": "sarah.williams@hospital.com",
@@ -55,7 +55,7 @@
     {
       "name": "Dr. Emily White",
       "specialization": "Geriatrician",
-      "profile_image": "../assets/Doctors/EmilyWhite.jpeg",
+      "profile_image": "../src/assets/Doctors/EmilyWhite.jpeg",
       "department": "Geriatrics",
       "years_of_experience": 14,
       "contact": "emily.white@hospital.com",
@@ -65,7 +65,7 @@
     {
       "name": "Dr. Robert Black",
       "specialization": "Geriatric Specialist",
-      "profile_image": "../assets/Doctors/RobertBlack.jpeg",
+      "profile_image": "../src/assets/Doctors/RobertBlack.jpeg",
       "department": "Geriatrics",
       "years_of_experience": 16,
       "contact": "robert.black@hospital.com",
@@ -75,7 +75,7 @@
     {
       "name": "Dr. Linda Green",
       "specialization": "Geriatric Psychiatry",
-      "profile_image": "../assets/Doctors/LindaGreen.jpeg",
+      "profile_image": "../src/assets/Doctors/LindaGreen.jpeg",
       "department": "Geriatrics",
       "years_of_experience": 13,
       "contact": "linda.green@hospital.com",
@@ -85,7 +85,7 @@
     {
       "name": "Dr. Karen Davis",
       "specialization": "Internal Medicine for Elderly",
-      "profile_image": "../assets/Doctors/KarenDavis.jpeg",
+      "profile_image": "../src/assets/Doctors/KarenDavis.jpeg",
       "department": "Geriatrics",
       "years_of_experience": 11,
       "contact": "karen.davis@hospital.com",
@@ -95,7 +95,7 @@
     {
       "name": "Dr. William Scott",
       "specialization": "Geriatric Neurologist",
-      "profile_image": "../assets/Doctors/WilliamScott.jpeg",
+      "profile_image": "../src/assets/Doctors/WilliamScott.jpeg",
       "department": "Geriatrics",
       "years_of_experience": 10,
       "contact": "william.scott@hospital.com",
@@ -107,7 +107,7 @@
     {
       "name": "Dr. David Harris",
       "specialization": "Gastroenterologist",
-      "profile_image": "../assets/Doctors/DavidHarris.jpeg",
+      "profile_image": "../src/assets/Doctors/DavidHarris.jpeg",
       "department": "Gastroenterology",
       "years_of_experience": 17,
       "contact": "david.harris@hospital.com",
@@ -117,7 +117,7 @@
     {
       "name": "Dr. Patricia Lee",
       "specialization": "Hepatologist",
-      "profile_image": "../assets/Doctors/PatriciaLee.jpeg",
+      "profile_image": "../src/assets/Doctors/PatriciaLee.jpeg",
       "department": "Gastroenterology",
       "years_of_experience": 14,
       "contact": "patricia.lee@hospital.com",
@@ -127,7 +127,7 @@
     {
       "name": "Dr. Joshua Clark",
       "specialization": "Endoscopist",
-      "profile_image": "../assets/Doctors/JoshuaClark.jpeg",
+      "profile_image": "../src/assets/Doctors/JoshuaClark.jpeg",
       "department": "Gastroenterology",
       "years_of_experience": 12,
       "contact": "joshua.clark@hospital.com",
@@ -137,7 +137,7 @@
     {
       "name": "Dr. Maria Perez",
       "specialization": "Gastrointestinal Surgeon",
-      "profile_image": "../assets/Doctors/MariaPerez.jpeg",
+      "profile_image": "../src/assets/Doctors/MariaPerez.jpeg",
       "department": "Gastroenterology",
       "years_of_experience": 15,
       "contact": "maria.perez@hospital.com",
@@ -147,7 +147,7 @@
     {
       "name": "Dr. Emily Turner",
       "specialization": "Gastroenterologist",
-      "profile_image": "../assets/Doctors/EmilyTurner.jpeg",
+      "profile_image": "../src/assets/Doctors/EmilyTurner.jpeg",
       "department": "Gastroenterology",
       "years_of_experience": 10,
       "contact": "emily.turner@hospital.com",
@@ -159,7 +159,7 @@
     {
       "name": "Dr. Laura Roberts",
       "specialization": "Gynecologist",
-      "profile_image": "../assets/Doctors/LauraRoberts.jpeg",
+      "profile_image": "../src/assets/Doctors/LauraRoberts.jpeg",
       "department": "Gynecology",
       "years_of_experience": 18,
       "contact": "laura.roberts@hospital.com",
@@ -169,7 +169,7 @@
     {
       "name": "Dr. Mary Collins",
       "specialization": "Obstetrician-Gynecologist",
-      "profile_image": "../assets/Doctors/MaryCollins.jpeg",
+      "profile_image": "../src/assets/Doctors/MaryCollins.jpeg",
       "department": "Gynecology",
       "years_of_experience": 16,
       "contact": "mary.collins@hospital.com",
@@ -179,7 +179,7 @@
     {
       "name": "Dr. Lisa Adams",
       "specialization": "Reproductive Health Specialist",
-      "profile_image": "../assets/Doctors/LisaAdams.jpeg",
+      "profile_image": "../src/assets/Doctors/LisaAdams.jpeg",
       "department": "Gynecology",
       "years_of_experience": 14,
       "contact": "lisa.adams@hospital.com",
@@ -189,7 +189,7 @@
     {
       "name": "Dr. James Miller",
       "specialization": "Gynecologic Oncologist",
-      "profile_image": "../assets/Doctors/JamesMiller.jpeg",
+      "profile_image": "../src/assets/Doctors/JamesMiller.jpeg",
       "department": "Gynecology",
       "years_of_experience": 13,
       "contact": "james.miller@hospital.com",
@@ -199,7 +199,7 @@
     {
       "name": "Dr. Sophia Taylor",
       "specialization": "Obstetrics",
-      "profile_image": "../assets/Doctors/SophiaTaylor.jpeg",
+      "profile_image": "../src/assets/Doctors/SophiaTaylor.jpeg",
       "department": "Gynecology",
       "years_of_experience": 10,
       "contact": "sophia.taylor@hospital.com",
@@ -211,7 +211,7 @@
     {
       "name": "Dr. Charles Brown",
       "specialization": "Pediatrician",
-      "profile_image": "../assets/Doctors/CharlesBrown.jpeg",
+      "profile_image": "../src/assets/Doctors/CharlesBrown.jpeg",
       "department": "Pediatrics",
       "years_of_experience": 14,
       "contact": "charles.brown@hospital.com",
@@ -221,7 +221,7 @@
     {
       "name": "Dr. Hannah Garcia",
       "specialization": "Pediatric Specialist",
-      "profile_image": "../assets/Doctors/HannahGarcia.jpeg",
+      "profile_image": "../src/assets/Doctors/HannahGarcia.jpeg",
       "department": "Pediatrics",
       "years_of_experience": 12,
       "contact": "hannah.garcia@hospital.com",
@@ -231,7 +231,7 @@
     {
       "name": "Dr. Robert King",
       "specialization": "Pediatric Neurologist",
-      "profile_image": "../assets/Doctors/RobertKing.jpeg",
+      "profile_image": "../src/assets/Doctors/RobertKing.jpeg",
       "department": "Pediatrics",
       "years_of_experience": 15,
       "contact": "robert.king@hospital.com",
@@ -241,7 +241,7 @@
     {
       "name": "Dr. Olivia Scott",
       "specialization": "Pediatric Surgeon",
-      "profile_image": "../assets/Doctors/OliviaScott.jpeg",
+      "profile_image": "../src/assets/Doctors/OliviaScott.jpeg",
       "department": "Pediatrics",
       "years_of_experience": 13,
       "contact": "olivia.scott@hospital.com",
@@ -251,7 +251,7 @@
     {
       "name": "Dr. William Nelson",
       "specialization": "Pediatric Endocrinologist",
-      "profile_image": "../assets/Doctors/WilliamNelson.jpeg",
+      "profile_image": "../src/assets/Doctors/WilliamNelson.jpeg",
       "department": "Pediatrics",
       "years_of_experience": 10,
       "contact": "william.nelson@hospital.com",
