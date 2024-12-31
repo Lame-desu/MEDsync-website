@@ -7,7 +7,7 @@ import doc3 from "../../assets/doc3.jpg";
 const Home = () => {
   return (
     <div className="flex flex-col gap-16 items-center font-outfit px-4">
-      <div className="flex flex-col lg:flex-row justify-around w-full max-w-screen-xl h-auto lg:h-[500px] mt-8 pt-8 lg:pt-20 rounded-lg bg-[#5AC5C8]">
+      <div className="flex flex-col lg:flex-row justify-around w-full max-w-screen-xl h-auto lg:h-[500px] mt-8 pt-8 lg:pt-20 rounded-lg bg-[#5AC5C8] w-full">
         <div className="lg:w-[60%] w-full px-6 lg:pl-10 text-white flex flex-col gap-4">
           <p className="text-4xl lg:text-6xl font-semibold mt-4 lg:mt-10">
             Book Appointment with Trusted Doctors

@@ -8,6 +8,12 @@ export default {
       fontFamily: {
         outfit: ["Outfit", "sans-serif"], // Add the font to Tailwind
       },
+      colors: {
+        mygreen: "#5AC5C8",
+        myblack: "#04353D",
+        mywhite: "#E3E6E9",
+
+      }
     },
   },
   plugins: [],
