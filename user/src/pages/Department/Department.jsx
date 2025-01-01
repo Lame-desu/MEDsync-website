@@ -32,7 +32,7 @@ const Department = () => {
   return (
     <div className="font-outfit">
       <h1 className="flex justify-center text-2xl text-mygreen font-extrabold pt-7 pb-3">Departments</h1>
-      <div className="md:flex gap-7 overflow-hidden flex-wrap mx-0 justify-center border-2 border-black md:px-72">
+      <div className="sm:flex gap-7 overflow-hidden flex-wrap mx-0 justify-center border-2 border-black md:px-72">
       {array.map((dep)=>(
         <div className="mt-14">
          <div className="cursor-pointer w-[350px] mx-auto border rounded-2xl shadow-lg overflow-hidden bg-white transition-transform duration-300 hover:scale-105" onClick={() => handleDoctor(dep.name)}>
